@@ -1,1 +1,1 @@
-# Personal configuration files for linux systems
+Personal configuration files for linux systems
