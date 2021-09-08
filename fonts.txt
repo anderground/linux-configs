@@ -1,0 +1,4 @@
+Terminal Fonts
+
+Bitstream Vera
+https://archlinux.org/packages/extra/any/ttf-bitstream-vera/

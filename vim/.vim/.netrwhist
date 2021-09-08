@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/kali/htb/static-246/CVE-2019-11043/conf'
+let g:netrw_dirhist_8='/home/kali/anderground.github.io/_sass'
+let g:netrw_dirhist_7='/tmp/.Test-unix'
+let g:netrw_dirhist_6='/tmp'
+let g:netrw_dirhist_5='/home/kali/tools/aclpwn.py/aclpwn'
+let g:netrw_dirhist_4='/etc'
+let g:netrw_dirhist_3='/etc/apt'
+let g:netrw_dirhist_2='/etc/apt/sources.list.d'
+let g:netrw_dirhist_1='/etc/freetds'
